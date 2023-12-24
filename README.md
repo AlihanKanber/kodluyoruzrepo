@@ -1,2 +1,2 @@
 # kodluyoruzrepo
-Kodluyoruz GIT Eğitimi
+- Kodluyoruz GIT Eğitimi
